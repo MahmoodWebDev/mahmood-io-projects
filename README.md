@@ -28,7 +28,7 @@
 #### 📁 React
 
 - **[React-App-ExpenseProject](#)**: An app to manage and track expenses.
-- **[React-App-Food-Order-Sushi](#)**: A sushi ordering app.
+- **[React-App-Food-Order-Sushi](#)**: A sushi ordering app, backend Firebase.
 - **[React-App-Keeper-App](#)**: A note-taking app.
 - **[React-App-Quote-App](#)**: Display random quotes with style, backend Firebase.
 - **[React-App-Todo-App](#)**: Another take on the To-Do app, this time with React.

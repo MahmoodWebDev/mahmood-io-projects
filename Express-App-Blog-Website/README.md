@@ -31,7 +31,7 @@ This is a simple yet feature-rich blog website built using Node.js and Express.j
 
 4. **Run the Application**
     ```bash
-    npm start
+    node app.js
     ```
 
 ## Usage

@@ -6,7 +6,6 @@
 
 A full-fledged Yelp-like camping site built using the Express.js framework. Share your favorite camping spots and discover new ones! 🗺️
 
-![App Screenshot](./screenshot.png)
 
 ## 📚 Table of Contents
 

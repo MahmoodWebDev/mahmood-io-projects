@@ -7,7 +7,7 @@
 
 Break down language barriers with React-App-Translate! This React-based application lets you translate text into multiple languages. 🌐🔍
 
-![App Screenshot](./screenshot.png)
+
 
 ## 📚 Table of Contents
 

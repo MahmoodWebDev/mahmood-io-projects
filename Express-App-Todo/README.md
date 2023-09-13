@@ -2,7 +2,7 @@
 
 ## 🌟 Description
 
-This is a simple yet powerful To-Do List application built with Node.js and Express.js. Backend MongoDB atlas. Dynamic routing, you can add your own list just write / one the address bar and it will create your own customized list.
+This is a simple yet powerful To-Do List application built with Node.js and Express.js. Backend MongoDB atlas. Dynamic routing, you can add your own list just write / on the address bar and it will create your own customized list.
  Manage your tasks effortlessly and boost your productivity! 🎯
 
 
